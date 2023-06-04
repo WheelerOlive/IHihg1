@@ -1,0 +1,9 @@
+{
+    "PCSeven": {
+        "code": "200",
+        "message": "success",
+        "sevenBody": {
+            "iscaeq": true
+        }
+    }
+}
